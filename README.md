@@ -1,4 +1,5 @@
 furry-cyril
 ===========
 
-My first repo
+My first repo, lol swag <br/>
+Shaboopy
